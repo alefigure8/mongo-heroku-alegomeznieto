@@ -1,0 +1,1 @@
+{"version":3,"file":"css/bundle.css","mappings":"AAAA;IACI,yBAAyB;AAC7B,C","sources":["webpack://mongodb_atlas_heroku/./frontend/styles/app.css"],"sourcesContent":["body {\r\n    background-color: #f5f6fa;\r\n}"],"names":[],"sourceRoot":""}
